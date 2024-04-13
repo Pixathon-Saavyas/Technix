@@ -27,10 +27,22 @@ Upload a PDF file using the "Upload File" option.
 View the extracted text and summary on the "Results" page.
 Use the chatbot feature to ask questions about the document content.
 Below are some picture's from our web application:
+<br>
+<img src="images/Service1.jpeg" alt="Image 1" width="900" height="800"><br>
+<img src="images/Service2.jpeg" alt="Image 1" width="900" height="800"><br>
 
-![Image 1](images/Service1.jpeg){:width="300px" height="200px"}
-![Image 2](images/Service2.jpeg){:width="300px" height="200px"}
+Launch the DeltaV application and change the service to textsummary under the advanced settings
+After entering a wall of text the output is as follows:
+<br>
+Test Case 1:<br>
+<img src="images/DeltaV4.jpeg" alt="Image 1" width="900" height="800"><br>
+<img src="images/DeltaV5.jpeg" alt="Image 1" width="900" height="800"><br>
+<img src="images/DeltaV6.jpeg" alt="Image 1" width="900" height="800"><br>
 
+Test Case 2:<br>
+<img src="images/DeltaV7.jpeg" alt="Image 1" width="900" height="800"><br>
+<img src="images/DeltaV8.jpeg" alt="Image 1" width="900" height="800"><br>
+<img src="images/DeltaV9.jpeg" alt="Image 1" width="900" height="800"><br>
 
 
 
