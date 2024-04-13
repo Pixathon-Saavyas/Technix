@@ -51,25 +51,35 @@ Use the chatbot feature to ask questions about the document content.
 Below are some picture's from our web application:
 <br>
 <br>
+<img src="images/local1.jpeg" alt="Image 1" width="900" height="720"><br>
+<img src="images/local2.jpeg" alt="Image 1" width="900" height="720"><br>
+<img src="images/local3.jpeg" alt="Image 1" width="900" height="720"><br>
+<img src="images/local4.jpeg" alt="Image 1" width="900" height="720"><br>
+
+<h3>Test Case 1:</h3><br>
+<img src="images/local5.jpeg" alt="Image 1" width="900" height="720"><br>
+<img src="images/local6.jpeg" alt="Image 1" width="900" height="720"><br>
+<img src="images/local7.jpeg" alt="Image 1" width="900" height="720"><br>
+<br>
+<h3>Test Case 2:</h3><br>
+
+<img src="images/local8.jpeg" alt="Image 1" width="900" height="720"><br>
+<img src="images/local9.jpeg" alt="Image 1" width="900" height="720"><br>
 
 
 
 
 
 
+5. **Acknowledgements**: 
+- This project was built using Streamlit, a Python library for creating web applications.
+- The PDF extraction functionality is powered by the pdfplumber library.
+- The summurization feature was implemented using Google's Pegasus-XSUM model
+- The chatbot feature was implemented using roberta-base-squad2
+- We'd like to thank Fetch.ai for providing the uAgents framework used in developing our model.
 
 
-5. **Contributing**: If you encounter any issues with the application or have suggestions for improvement, please open an issue on GitHub. Pull requests are also welcome!
-
-6. **Acknowledgements**: 
-This project was built using Streamlit, a Python library for creating web applications.
-The PDF extraction functionality is powered by the pdfplumber library.
-The summurization feature was implemented using Google's Pegasus-XSUM model
-The chatbot feature was implemented using roberta-base-squad2
-We'd like to thank Fetch.ai for providing the uAgents framework used in developing our model.
-
-
-7. **Authors**:<br>
+6. **Authors**:<br>
    #### Team Technix:
    - Rohit Bhandari
    - Jimil Mandani
