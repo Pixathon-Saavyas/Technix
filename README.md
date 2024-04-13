@@ -27,6 +27,8 @@ Upload a PDF file using the "Upload File" option.
 View the extracted text and summary on the "Results" page.
 Use the chatbot feature to ask questions about the document content.
 Below are some picture's from our web application: 
+![Image 1](images/Service1.jpeg)
+![Image 2](images/Service2.jpeg)
 
 
 
